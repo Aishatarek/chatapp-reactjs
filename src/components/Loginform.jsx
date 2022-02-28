@@ -22,6 +22,7 @@ const Loginform =() =>{
     }
     return (
         <div className="wrapper">
+        <p>username:mariem   ,   password:123123</p>
             <div className="form" style={{textAlign: 'center'}}>
                 <h1>chat app</h1>
                 <form onSubmit={handleSubmit}>
